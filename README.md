@@ -4,10 +4,10 @@
 - **Server event forwarding** Forwards server events such as player join/leave, death messages, and advancements
 - **WebSocket connection** Lower latency, lower performance overhead , and universal compatibility compared to RCON or reading `latest.log`
 ## Requirements
-Minecraft Java 1.21.1
-NeoForge 21.1.250
-Server must be running in Online Mode (to fetch correct player skins)
-Node.js 18+
+- Minecraft Java 1.21.1
+- NeoForge 21.1.250
+- Server must be running in Online Mode (to fetch correct player skins)
+- Node.js 18+
 ## Installation
 1. Download and extract `discord.zip`
 2. Download and add c`hatsync-1.0.0.jar` to the server's mods folder
